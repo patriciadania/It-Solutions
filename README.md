@@ -46,15 +46,15 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 Para utilizar o projeto, basta clonar o repositório em sua máquina local e abrir o arquivo index.html em seu navegador de preferência.
 <div align="center">
   <img alt="tela das historias de usuarios" width="550" src="https://github.com/patriciadania/Responsividade--MobileFriendly/assets/120285942/fa353ee1-3853-42d0-a8a6-847888294ac8"/><br>
-  Tela 1: Tela Inicial.<br>
+  Tela :Inicial.<br>
     <img alt="tela das historias de usuarios" width="550" src="https://github.com/patriciadania/Responsividade--MobileFriendly/assets/120285942/d16f358f-1fe6-44af-9810-cd5723f65b73"/><br>
-  Tela 1: Tela Sobre.<br>
+  Tela : Sobre.<br>
     <img alt="tela das historias de usuarios" width="550" src="https://github.com/patriciadania/Responsividade--MobileFriendly/assets/120285942/d035ba2d-e5b6-4e30-9b9d-d12ab923463b"/><br>
-  Tela 1: Tela Nosso Produto.<br>
+  Tela :Nosso Produto.<br>
     <img alt="tela das historias de usuarios" width="550" src="https://github.com/patriciadania/Responsividade--MobileFriendly/assets/120285942/d43dbe73-6cd1-4762-97c8-558a9e5b4e41"/><br>
-  Tela 1: Tela Mensagens.<br>
+  Tela : Mensagens.<br>
      <img alt="tela das historias de usuarios" width="550" src="https://github.com/patriciadania/Responsividade--MobileFriendly/assets/120285942/6d79a62a-fe61-45e3-9c04-3c9b3a263df5"/><br>
-  Tela 1: Tela Galeria.<br>
+  Tela : Galeria.<br>
 
 </div>
 
